@@ -37,4 +37,7 @@ Vous pouvez **quitter le jeu à tout moment** en entrant la commande **q**.
 - Python 3 installé sur votre machine
 
 ### 2. Exécution
-1. Téléchargez le fichier du jeu, par exemple :  
+1. Téléchargez le fichier du jeu, par exemple :foret_des_monstres.py
+2. Dans un terminal, exécutez :
+```bash
+python foret_des_monstres.py
